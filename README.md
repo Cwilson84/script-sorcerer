@@ -24,7 +24,7 @@ Simply open the app in your browser by following the [link at the bottom of this
 This app is a simple text editor that runs in the browser. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
 
 ## License: 
-MIT License
+MPL License
 
 ## Contributing
 
